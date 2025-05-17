@@ -58,35 +58,6 @@
 
 ---
 
-## 💼 Proyectos Destacados  
-
-### 1️⃣ Sistema de Gestión de Inventario  
-📌 **Java + MySQL + JavaFX**  
-✅ CRUD completo, interfaz intuitiva, gestión de usuarios  
-🔗 *[¡Repositorio aquí!](#)* *(Añade tu link)*  
-
-### 2️⃣ Página Web para Negocios Locales  
-📌 **HTML + CSS + JavaScript + Java**  
-✅ Diseño responsive, integración con backend Java  
-🔗 *[¡Mira el demo!](#)*  
-
-### 3️⃣ App Android para Gimnasios  
-📌 **Android Studio + Realm DB**  
-✅ Seguimiento de rutinas, perfil de usuarios  
-🔗 *[Código en GitHub](#)*  
-
-### 4️⃣ Sistema Médico con ASP.NET Core  
-📌 **ASP.NET Core + SQL Server**  
-✅ Gestión de citas médicas, historial de pacientes  
-🔗 *[Ver proyecto](#)*  
-
-### 5️⃣ Cliente-Servidor en C++  
-📌 **C++ con Sockets**  
-✅ Comunicación entre dispositivos en red local  
-🔗 *[Código disponible](#)*  
-
----
-
 ## 🌎 Idiomas  
 - **Español** (Nativo)  
 - **Inglés** (Intermedio - Puedo leer documentación técnica y comunicarme)  
@@ -104,19 +75,9 @@
 ## 📩 ¿Interesado en mi perfil?  
 <p align="center">
   <a href="mailto:esteban041am@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-Email-red?style=for-the-badge" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://wa.me/50670722822">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
-
----
-
-## ✨ Tips Finales  
-1. **Personaliza los links** con tus repositorios reales  
-2. **Añade capturas** de tus proyectos en los README.md  
-3. **Incluye un GIF** mostrando tus aplicaciones en funcionamiento  
-4. **Actualiza constantemente** con cada nuevo proyecto que completes  
-
-¡Listo para impresionar a reclutadores! 😎
