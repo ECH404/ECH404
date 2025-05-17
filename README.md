@@ -4,7 +4,6 @@
 📍 **Ubicación:** Grecia, Alajuela, Costa Rica  
 📧 **Contacto:** esteban041am@gmail.com  
 📱 **Teléfono:** +506 7072-2822  
-🔗 **GitHub:** [github.com/tu-usuario](https://github.com/tu-usuario) *(¡Reemplázalo con tu link real!)*  
 
 ---
 
